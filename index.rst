@@ -20,10 +20,10 @@ Level 1
 
 Main text
 
-Level 2
+Feature A
 -------
 
-Feature 1
+F1
 
 Level 3
 ^^^^^^^
@@ -32,6 +32,11 @@ Option 1
 
 Level 4
 """""""
+Use this and this keyword
+
+Feature B
+--------
+FB
 
 Exceptions to it
 
