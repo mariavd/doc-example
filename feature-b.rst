@@ -8,49 +8,15 @@ Welcome to Code Ref exercise's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Feature B:
 
-   feature-a
-   feature-b
+Feature B
+=========
 
-Let's see what this project is all about.
+Subsection
+----------
 
-Level 1 
-=======
-
-Main text
-
-Level 2
--------
-
-Feature 1
-
-Level 3
-^^^^^^^
-
-Option 1
-
-Level 4
-"""""""
-
-Exceptions to it
-
-1. item 1
-2. item 2
-
-#. item 3
-#. item 4
-
-====== ====== 
-No.    Prime
-====== ====== 
-1      No
-2      Yes
-3      Yes
-4      No
-====== ====== 
-
-How our function looks like:
+Our code in C
 
 .. code-block:: c
 
@@ -59,9 +25,7 @@ How our function looks like:
    {
       printf("Hello, World!");
       return 0;
-   }
-
-Good luck 
+    }
 
 Indices and tables
 ==================
@@ -69,7 +33,3 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-* :ref:`feature-a`
-* :ref:`feature-b`
-
-
